@@ -1,6 +1,5 @@
 <?php
 session_start();
-//fuewgfuwduihUIDH
 if (isset($_SESSION['ID']) && isset($_SESSION['Username'])) {
 
  ?>
